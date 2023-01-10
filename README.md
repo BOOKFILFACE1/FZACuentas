@@ -19,7 +19,7 @@ El comando que se muestra a continuación permitirá gestionar los permisos del 
 
 chmod -R 755 FTACuentas && cd FTACuentas
 
-Aquí observaremos dos archivos. Uno bajo el nombre de README.md y el otro como instagram.py. Ejecutaremos este último:
+Aquí observaremos dos archivos. Uno bajo el nombre de README.md y el otro como FTACuentas.py. Ejecutaremos este último:
 
 python3 FTACuentas.py
 
