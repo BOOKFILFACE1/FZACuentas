@@ -1,4 +1,4 @@
-# FTACuentas
+# FZACuentas
 
 El brute-force o ataque de fuerza bruta es un procedimiento de hackeo mediante el cual se busca adivinar una contraseña, probando aleatoriamente combinaciones de caracteres tomando en cuenta algunos aspectos de la víctima.
 El programa trabaja con un algoritmo simple, que irá probando distintas contraseñas hasta que logre adivinar la correcta.
