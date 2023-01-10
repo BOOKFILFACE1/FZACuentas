@@ -1,6 +1,6 @@
 # FZACuentas
 
-✨Esta HERRAMIENTA nos permite Hackear Cuentas de Facebook, instagram, twitter, Netflix & todas⛔, SOLO que en el codigo, tienen que especificar la pagina web del login del servicion, y que el Nombre de la lista de las contrasenas esten correctas en TXT🔥.
+✨Esta HERRAMIENTA nos permite Hackear Cuentas de Facebook, instagram, twitter, Netflix & todas⛔, SOLO que en el codigo, tienen que especificar la pagina web del login del servicio, y que el Nombre de la lista de las contrasenas esten correctas en TXT🔥.
 
 
 El brute-force o ataque de fuerza bruta es un procedimiento de hackeo mediante el cual se busca adivinar una contraseña, probando aleatoriamente combinaciones de caracteres tomando en cuenta algunos aspectos de la víctima.
